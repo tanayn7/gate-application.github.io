@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(228, 201, 166);
+    background-color: rgb(255, 237, 214);
+}
+
+#img-center{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */ 
+.jumbotron {
+    margin-bottom: 0;
+    background-color: rgb(228, 201, 166);
+    background-color: rgb(255, 237, 214);
+}
+
+
+
+/*Class block*/
+.clblock{
+    border: 3px solid black;
+    box-shadow: 2px 3px 3px 1px rgb(219, 214, 204);
+}
+
+.cl-header{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    font-size: 20px;
+    background-color: #f2f2f2;
+    padding: 25px;
+    background-color: rgb(248, 209, 159);
+}
+    
