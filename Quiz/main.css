@@ -1,7 +1,4 @@
 body{
-    /* background-color: rgb(149, 212, 71);
-    background-color: rgba(201, 162, 56, 0.863);
-    background-color: rgb(228, 201, 166); */
     background-color: rgb(255, 237, 214);
     height: 100vh;
 }
@@ -28,11 +25,7 @@ button{
     height: 95px;
     width: 200px;
     border-style: none;
-    /* background-color: rgb(9, 99, 141);
-    background-color: rgb(58, 109, 85); */
     background-color: rgb(73, 141, 109);
-    /* transition: 0.8s ease-in-out; 
-    transform: rotate(365deg);    */
 }
 
 button:hover{
@@ -42,7 +35,6 @@ button:hover{
     font-size: 28px;
     border-radius: 30px;
     transition: 1s ease-in-out 0.4s;
-    /* transform: rotate(720deg); */
 }
 
 h1{
@@ -51,7 +43,6 @@ h1{
     color: rgb(0, 0, 0);
     letter-spacing: 4px;
     font-size: 50px;
-    background-color: rgb(211, 212, 111); /*rgb(153, 219, 55)*/
     background-color: rgb(134, 201, 134);
 }
 
@@ -87,7 +78,7 @@ a:hover{
         height: 100px;
         width: 200px;
         border-style: none;
-        background-color: rgb(9, 99, 141);
+        background-color: rgb(73, 141, 109);
     }
 }
 
@@ -114,7 +105,7 @@ a:hover{
         height: 100px;
         width: 200px;
         border-style: none;
-        background-color: rgb(9, 99, 141);
+        background-color: rgb(73, 141, 109);
     }
 }
 
@@ -140,7 +131,17 @@ a:hover{
         height: 100px;
         width: 200px;
         border-style: none;
-        background-color: rgb(9, 99, 141);
+        background-color: rgb(73, 141, 109);
+    }
+
+    h1{
+        margin: 1px auto 20px auto;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        letter-spacing: 3px;
+        font-size: 50px;
+        background-color: rgb(211, 212, 111); /*rgb(153, 219, 55)*/
+        background-color: rgb(134, 201, 134);
     }
 }
 
@@ -157,7 +158,6 @@ a:hover{
         margin-right: 30px;
         margin-bottom: 40px;
         transition: 2s ease-in-out;
-        transform: rotate(365deg);
     }
     
     button{
@@ -168,5 +168,15 @@ a:hover{
         height: 75px;
         width: 150px;
         border-style: none;
+        background-color: rgb(73, 141, 109);
+    }
+
+    h1{
+        margin: 1px auto 20px auto;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        letter-spacing: 3px;
+        font-size: 41px;
+        background-color: rgb(134, 201, 134);
     }
 }
