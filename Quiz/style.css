@@ -352,8 +352,8 @@ input{
 
     #showScore table, td {
         border: 1.3px solid black;
-        font-size: 12px;
-        padding: 8px;
+        font-size: 7.5px;
+        padding: 4.4px;
         white-space: nowrap;
     }
 
